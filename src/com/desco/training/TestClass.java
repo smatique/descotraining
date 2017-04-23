@@ -11,7 +11,7 @@ public class TestClass {
 		int c=a/b;
 		System.out.println(c);
 		
-		a=5;
+		a=10;
 		b=2;
 		c=3;
 		float d=++a/--b - --c/++a+b;
