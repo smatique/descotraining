@@ -16,8 +16,7 @@ public class TestClass {
 		c=3;
 		float d=++a/--b - --c/++a+b;
 		
-		
-		
+	
 		System.out.println(~20);
 	}
 	
